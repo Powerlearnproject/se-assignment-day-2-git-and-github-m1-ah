@@ -47,21 +47,24 @@
 
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
-  A public repository is visible to everyone while a private repository is visible by the owner and his or her invited collaborators.
-Public repositories are ideal for open-source projects where broad collaboration and community involvement are desired.
-  **Advantages of a Public repository.**
+
+- A public repository is visible to everyone while a private repository is visible by the owner and his or her invited collaborators.
+- Public repositories are ideal for open-source projects where broad collaboration and community involvement are desired.
+
+- **Advantages of a Public repository.**
 1. Increases visibility which can attract more collaborators.
 2. It promotes open-source collaboration thus allowing others to view, fork and contribute to the project.
 3. It is easy to get feedback, help and support from community.
-  **Disadvantages of a Public repository.**
+
+ - **Disadvantages of a Public repository.**
 1. There is no privacy. Sensitive information or proprietary code can be accessed.
 2. It is prone to security risks since it is exposed.
-Private repositories are suitable for projects requiring confidentiality such as proprietary software or internal team projects.
-  **Advantages of a Private repository.**
+- Private repositories are suitable for projects requiring confidentiality such as proprietary software or internal team projects.
+- **Advantages of a Private repository.**
 1. The owner has full control over who can access, view or contribute to the repository.
 2. It keeps sensitive or proprietary information safe from public view.
 3. It reduces the risk of unauthorized access or misuse of owner's code.
-  **Disadvantages of a Private repository.**
+- **Disadvantages of a Private repository.**
 1. There is limited exposure thus fewer contributions and feedback.
 2. There is collaboration limits. Only the invited can access the repository.
 
